@@ -1,6 +1,6 @@
 # Collaborative_Filtering_Based_Recommendation_System
 
-please refer to the [report.pdf](https://github.com/zslwyuan/Collaborative_Filtering_Based_Recommendation_System/blob/master/report.pdf)
+please refer to the **[report.pdf](https://github.com/zslwyuan/Collaborative_Filtering_Based_Recommendation_System/blob/master/report.pdf)**
 
 The project consists of the following tasks:
 1. To implement PMF with maximum a posteriori (MAP) estimation according to the estimator interface of
