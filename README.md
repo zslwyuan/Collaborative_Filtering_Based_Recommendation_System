@@ -2,6 +2,8 @@
 
 please refer to the **[report.pdf](https://github.com/zslwyuan/Collaborative_Filtering_Based_Recommendation_System/blob/master/report.pdf)**
 
+If you have some questions, I would like to discuss~ ^_^  (tliang at ust dot hk)
+
 The project consists of the following tasks:
 1. To implement PMF with maximum a posteriori (MAP) estimation according to the estimator interface of
 scikit-learn.
